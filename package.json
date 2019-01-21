@@ -11,6 +11,7 @@
   "dependencies": {
     "vue": "^2.5.21",
     "vue-router": "^3.0.1",
+    "vue-server-renderer": "^2.5.22",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
@@ -25,6 +26,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
-    "vue-template-compiler": "^2.5.21"
+    "vue-template-compiler": "^2.5.21",
+    "webpack-node-externals": "^1.7.2"
   }
 }

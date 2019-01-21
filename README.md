@@ -1,5 +1,7 @@
 # vue-cli3-demo
 
+## explain
+    This is a vue-cli3 skeleton demo
 ## Project setup
 ```
 npm install
